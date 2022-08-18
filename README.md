@@ -1,5 +1,5 @@
-### Hi there 👋
-I am **Giancarlo Scalisi** from Italy. 
+### Hi there 👋 and welcome
+ 
 
 <!--
 **Giancarlo49/Giancarlo49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,8 @@
 I practice git, github, vsc and html since august 2022.<br>
 The goal of the training is to work as a web developer with html, css and javascript.<br>
 <br>
-<h3>My projects:</h3>
 More projects will follow in the near future.<br>
+<br>
 
 
 

@@ -1,10 +1,13 @@
-### Hi there 👋 and welcome
- 
+<h1>Hi, I'm Giancarlo </h1>
 
-<!--
-**Giancarlo49/Giancarlo49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+I practice git, github, vsc and html since august 2022.<br>
+The goal of the training is to work as a web developer with html, css and javascript.<br>
+More projects will follow in the near future.<br>
 
-Here are some ideas to get you started:
+
+
+<h4>Here are some ideas to get you started:</h4>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

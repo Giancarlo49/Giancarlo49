@@ -6,7 +6,7 @@ Aspiring web developer
 <br>
 More projects will follow in the near future.<br>
 <br>
-Languages: :de: :uk: :es: :it:
+Languages :de: :uk: :es: :it:
 <br>
 
 

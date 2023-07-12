@@ -4,7 +4,7 @@
 Aspiring web developer 
 <br>
 <br>
-More projects will follow in the near future.<br>
+More projects will follow.<br>
 <br>
 Languages :de: :uk: :es: :it:
 <br>
@@ -12,11 +12,10 @@ Languages :de: :uk: :es: :it:
 
 
 
-- 🔭 I'm currently working on ...
-- 🌱 I’m currently learning html, CSS, JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I'm currently working on my portfolio
+- 🌱 I’m currently learning HTML5, CSS, JS, React, Tailwind, Bootstrap
+- 🤔 I’m looking for help with More.
+- 💬 Ask me.
 - 📫 How to reach me: giancarloscalisi2@gmail.com
 
 

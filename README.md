@@ -16,7 +16,7 @@ Languages :de: :uk: :es: :it:
 - 🌱 I’m currently learning HTML5, CSS, JS, React, Tailwind, Bootstrap
 - 🤔 I’m looking for help with More.
 - 💬 Ask me.
-- 📫 How to reach me: giancarloscalisi2@gmail.com
+- 📫 How to reach me: luxelevare@gmail.com
 
 
 -->

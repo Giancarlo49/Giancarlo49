@@ -10,13 +10,13 @@ More projects will follow.<br>
 
 
 
-- 🔭 I'm currently working on my portfolio
-- 🌱 I’m currently learning HTML5, CSS, JS, React, Tailwind, Bootstrap
-- 💬 Ask me about my work
+ 🔭 I'm currently working on my portfolio
+🌱 I’m currently learning HTML5, CSS, JS, React, Tailwind, Bootstrap
+💬 Ask me about my work
  <br>
-- 📫 How to reach me: luxelevare@gmail.com
+📫 How to reach me: luxelevare@gmail.com
  <br>
-- Languages :de: :uk: :es: :it:
+Languages :de: :uk: :es: :it:
 
 
 -->

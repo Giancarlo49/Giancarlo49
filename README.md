@@ -1,7 +1,6 @@
 <h1>Hi, I'm Giancarlo </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-Web Developer 
+<h2>👨‍💻 Software Development Projects:</h2 
 <br>
 <br>
 More projects will follow.<br>

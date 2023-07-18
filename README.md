@@ -5,7 +5,7 @@
 <br>
 More projects will follow.<br>
 <br>
-Languages :de: :uk: :es: :it:
+
 <br/>
 <br/>
 

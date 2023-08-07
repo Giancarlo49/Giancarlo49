@@ -7,12 +7,9 @@ My Projects:
 <br>Vocabel-App
 <br>Shopping Todo-App
 <br>Quiz Game-App
-
-
-
-
-
+<br>
  -🔭 I'm currently working on a E-Comerce/Affiliate Webshop<br>
+ <br>
 -🌱 Experience with HTML5, CSS3, JS, React, NodeJS, Mongoose, MongoDB, Tailwind, Bootstrap<br>
 -💬 Ask me about my work<br>
  <br>

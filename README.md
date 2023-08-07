@@ -2,6 +2,8 @@
 
 <h2>I'm a Fullstack Software Developer</h2 
 <br>
+Experience with HTML5, CSS3, JS, React, NodeJS, Mongoose, MongoDB, Tailwind, Bootstrap<br>
+<br>
 My Projects:
 <br>Portfolio
 <br>Vocabel-App
@@ -10,7 +12,7 @@ My Projects:
 <br>
 I'm currently working on a E-Comerce/Affiliate Webshop<br>
  <br>
-Experience with HTML5, CSS3, JS, React, NodeJS, Mongoose, MongoDB, Tailwind, Bootstrap<br>
+
 <br>
 Ask me about my work<br>
  <br>

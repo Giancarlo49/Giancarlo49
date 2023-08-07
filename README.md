@@ -2,15 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2 
 <br>
-<br>
-More projects will follow.<br>
-<br>
-<br/>
+<br>Portfolio
+<br>Vocabel-App
+<br>Shopping Todo-App
+<br>Quiz Game-App
 
 
 
 
- -🔭 I'm currently working on my portfolio<br>
+
+ -🔭 I'm currently working on a E-Comerce/Affiliate Webshop<br>
 -🌱 I’m currently learning HTML5, CSS, JS, React, Tailwind, Bootstrap<br>
 -💬 Ask me about my work<br>
  <br>

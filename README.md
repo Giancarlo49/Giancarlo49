@@ -1,7 +1,8 @@
 <h1>Hi, I'm Giancarlo </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2 
+<h2>I'm a Fullstack Software Developer</h2 
 <br>
+My Projects:
 <br>Portfolio
 <br>Vocabel-App
 <br>Shopping Todo-App

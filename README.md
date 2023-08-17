@@ -10,8 +10,7 @@ My Projects:
 <br>Shopping Todo-App
 <br>Quiz Game-App
 <br>
-Digital Carrer Institute (DCI)<br> 
-Final Project E-Comerce/Affiliate Webshop<br>
+Digital Carrer Institute (DCI): <<< Final Project E-Comerce/Affiliate Webshop >>><br>
  <br>
 
 <br>

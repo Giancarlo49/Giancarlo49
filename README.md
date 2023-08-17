@@ -10,7 +10,8 @@ My Projects:
 <br>Shopping Todo-App
 <br>Quiz Game-App
 <br>
-I'm currently working on a E-Comerce/Affiliate Webshop<br>
+Digital Carrer Institute (DCI)<br> 
+Final Project E-Comerce/Affiliate Webshop<br>
  <br>
 
 <br>

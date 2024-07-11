@@ -5,7 +5,7 @@
 Experience with: HTML5, CSS3, JS, React, NodeJS, Mongoose, MongoDB, Tailwind, Bootstrap, Flutter, SwiftUI, Python<br>
 <br>
 Enjoy my Projects.<br> 
-Easy playgrounds for beginners to train your programmer skills in different technologies.<br>
+
 
 
 
